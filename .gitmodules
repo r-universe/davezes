@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mactivate"]
+	path = mactivate
+	url = https://github.com/cran/mactivate
+	shallow = true
+	registered = true
+[submodule "SSsimple"]
+	path = SSsimple
+	url = https://github.com/cran/SSsimple
+	shallow = true
+	registered = true
+[submodule "widals"]
+	path = widals
+	url = https://github.com/cran/widals
+	shallow = true
+	registered = true
