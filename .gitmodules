@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mactivate"]
-	path = mactivate
-	url = https://github.com/cran/mactivate
 [submodule "SSsimple"]
 	path = SSsimple
 	url = https://github.com/cran/SSsimple
+[submodule "mactivate"]
+	path = mactivate
+	url = https://github.com/cran/mactivate
 [submodule "widals"]
 	path = widals
 	url = https://github.com/cran/widals
